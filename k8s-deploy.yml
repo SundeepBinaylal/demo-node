@@ -15,7 +15,7 @@ spec:
        spec:
          containers:
              - name: ctr1
-               image: sandeepbinaylal/k8s-jenkins-demo:1
+               image: sandeepbinaylal/node-project-vit:1
 ---
 apiVersion: v1
 kind: Service
